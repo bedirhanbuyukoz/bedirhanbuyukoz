@@ -1,9 +1,12 @@
-<h2 align="left">Hi, I'm Bedirhan</h2>
+<h2 align="left">Hi, I'm Bedirhan Büyüköz </h2>
 
+
+<!--
 <a href="https://www.linkedin.com/in/bedirhan-büyüköz-8857b3192/" target="blank"><img align="left" src="icons/linkedin.svg" alt="bedirhanbüyüköz" width="22px" /></a>
-
-
--
+-->
+### Connect with me
+[<img align="left" alt="LinkedIn" width="25" src="icons/linkedin.svg" />]( https://www.linkedin.com/in/bedirhan-büyüköz-8857b3192)
+<br />
 
 
 
@@ -41,7 +44,15 @@ Here are some ideas to get you started:
 -->
 
 
-[![Bedirhan's github stats](https://github-readme-stats.vercel.app/api?username=bedirhanbuyukoz&theme=dark&show_icons=true)](https://github.com/bedirhanbuyukoz/github-readme-stats)
 
+
+
+
+[![Bedirhan's github stats](https://github-readme-stats.vercel.app/api?username=bedirhanbuyukoz&theme=dark&show_icons=true)](https://github.com/bedirhanbuyukoz/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanbuyukoz&theme=dark&show_icons=true=javascript,html)](https://github.com/bedirhanbuyukoz/github-readme-stats)
+
+
+
+
+
