@@ -8,7 +8,7 @@
 [<img align="left" alt="LinkedIn" width="25" src="icons/linkedin.svg" />]( https://www.linkedin.com/in/bedirhan-büyüköz-8857b3192)
 <br />
 
-
+ ![HitCount](https://views.whatilearened.today/views/github/bedirhanbuyukoz/creative-profile-readme.svg)
 
 
 <!--
