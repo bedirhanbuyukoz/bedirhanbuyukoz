@@ -9,7 +9,7 @@
 
 
 <a href="https://www.linkedin.com/in/bedirhan-büyüköz-8857b3192" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="20px" /></a>
-<a href="https://instagram.com/bedirhabuyukoz" target="blank"><img align="left" src="icons/instagram.svg" alt="bedirhanbuyukoz" width="20px" /></a>
+<a href="https://instagram.com/bedirhanbuyukoz" target="blank"><img align="left" src="icons/instagram.svg" alt="bedirhanbuyukoz" width="20px" /></a>
 
 <br />
 
