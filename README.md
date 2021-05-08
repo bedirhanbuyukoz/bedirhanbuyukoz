@@ -13,8 +13,9 @@
 ### Connect with me
 
 
-<a href="https://www.linkedin.com/in/bedirhan-büyüköz-8857b3192" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="20px" /></a>
-<a href="https://instagram.com/bedirhanbuyukoz" target="blank"><img align="left" src="icons/instagram.svg" alt="bedirhanbuyukoz" width="20px" /></a>
+<a href="https://www.linkedin.com/in/bedirhan-büyüköz-8857b3192" target="blank"><img align="left" src="icons/linkedin.svg" alt="bedirhanbuyukoz" width="40px" /></a>
+<a href="https://instagram.com/bedirhanbuyukoz" target="blank"><img align="left" src="icons/instagram.svg" alt="bedirhanbuyukoz" width="40px" /></a>
+<a href="https://instagram.com/beykozuniyazilim" target="blank"><img align="left" src="icons/instagram.svg" alt="beykozuniyazilim" width="40px" /></a>
 
 <br />
 
