@@ -4,7 +4,8 @@
 -->
 <h2 align="left">Hi, I'm Software Engineer </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedirhanbuyukoz&label=Profile%20views&color=0e75b6&style=flat" alt="bedirhanbuyukoz" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedirhanbuyukoz&label=Profile%20views&color=0e75b6&style=flat" alt="bedirhanbuyukoz" /> </p> <h2 align="left"> </h2>
 
 <!--
 <a href="https://www.linkedin.com/in/bedirhan-büyüköz-8857b3192/" target="blank"><img align="left" src="icons/linkedin.svg" alt="bedirhanbüyüköz" width="22px" /></a>
@@ -13,9 +14,13 @@
 ### Connect with me
 
 
-<a href="https://www.linkedin.com/in/bedirhan-büyüköz-8857b3192" target="blank"><img align="left" src="icons/linkedin.svg" alt="bedirhanbuyukoz" width="40px" /></a>
-<a href="https://instagram.com/bedirhanbuyukoz" target="blank"><img align="left" src="icons/instagram.svg" alt="bedirhanbuyukoz" width="40px" /></a>
-<a href="https://instagram.com/beykozuniyazilim" target="blank"><img align="left" src="icons/instagram.svg" alt="beykozuniyazilim" width="40px" /></a>
+<a href="https://www.linkedin.com/in/bedirhan-büyüköz-8857b3192" target="blank"><img align="left" src="icons/linkedin.svg" alt="bedirhanbuyukoz" width="35px" /></a>
+<a href="https://instagram.com/bedirhanbuyukoz" target="blank"><img align="left" src="icons/instagram.svg" alt="bedirhanbuyukoz" width="35px" /></a>
+<br /><br /> <h2 align="left"> </h2>
+
+### Business Connect
+<a href="https://instagram.com/beykozuniyazilim" target="blank"><img align="left" src="icons/instagram.svg" alt="beykozuniyazilim" width="35px" /></a>
+<a href="https://www.linkedin.com/in/bedirhan-büyüköz-8857b3192" target="blank"><img align="left" src="icons/linkedin.svg" alt="bedirhanbuyukoz" width="35px" /></a>
 
 <br />
 
