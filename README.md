@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi, I'm Software Engineer </h2>
+<h2 align="left">Hi, I'm Bedirhan </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedirhanbuyukoz&label=Profile%20views&color=0e75b6&style=flat" alt="bedirhanbuyukoz" /> </p> <h2 align="left"> </h2>
 
 ### Connect with me
