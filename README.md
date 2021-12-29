@@ -9,11 +9,6 @@
 <a href="https://instagram.com/bedirhanbuyukoz" target="blank"><img align="left" src="icons/instagram.svg" alt="bedirhanbuyukoz" width="35px" /></a>
 <br /><br /> <h2 align="left"> </h2>
 
-### Business Connect
-
-<a href="https://instagram.com/beykozuniyazilim" target="blank"><img align="left" src="icons/instagram.svg" alt="beykozuniyazilim" width="35px" /></a>
-<a href="https://www.linkedin.com/company/beykozyazilim" target="blank"><img align="left" src="icons/linkedin.svg" alt="beykozuniyazilim" width="35px" /></a>
-
 <br />
 
 <h2 align="left"> </h2>
