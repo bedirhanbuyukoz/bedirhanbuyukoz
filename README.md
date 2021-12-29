@@ -11,7 +11,7 @@
 
 <br />
 
-<h2 align="left"> </h2>
+
 
 [![Bedirhan's github stats](https://github-readme-stats.vercel.app/api?username=bedirhanbuyukoz&theme=dark&show_icons=true)](https://github.com/bedirhanbuyukoz/github-readme-stats)  &nbsp; &nbsp; &nbsp; &nbsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanbuyukoz&theme=dark&show_icons=true=javascript,html)](https://github.com/bedirhanbuyukoz/github-readme-stats)
 
