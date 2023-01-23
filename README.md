@@ -17,6 +17,3 @@
 
 
 
-[![Bedirhan's github stats](https://github-readme-stats.vercel.app/api?username=bedirhanbuyukoz&theme)](https://github.com/bedirhanbuyukoz/github-readme-stats)  &nbsp; &nbsp; &nbsp; &nbsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanbuyukoz&theme)](https://github.com/bedirhanbuyukoz/github-readme-stats)
-
-
