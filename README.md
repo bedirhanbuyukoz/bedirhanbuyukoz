@@ -29,7 +29,7 @@ My Web Site...
 	
 <a href="https://github.com/bedirhanbuyukoz/">
 <img src="https://github-readme-stats.vercel.app/api?username=bedirhanbuyukoz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
-ㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤ
+ㅤ ㅤㅤㅤㅤㅤ 
 
 <a href="https://linkedin.com/in/bedirhanbuyukoz" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  bedirhanbuyukoz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
