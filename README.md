@@ -17,17 +17,21 @@
 <img src="https://img.shields.io/badge/linkedin:  bedirhanbuyukoz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
 <div align="left">
 
+<a href="mailto:bedirhanbuyukoz@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  bedirhanbuyukoz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail />
+<div align="left">
+
+<a href="https://www.instagram.com/beykozuniyazilim" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  Software Engineering Club-%2300acee.svg?color=663399&style=for-the-badge&logo=instagram&logoColor=white" alt=linkedin />
+<div align="left">
+
+
 <a href="https://www.linkedin.com/company/beykozyazilim" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Software Engineering Club-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/> 
 <div align="left">
 
-<a href="https://www.instagram.com/beykozuniyazilim" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  Software Engineering Club-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=linkedin />
-<div align="left">
+
 	
-<a href="mailto:bedirhanbuyukoz@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  bedirhanbuyukoz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail />
-<div align="left">
 
 
 
