@@ -1,5 +1,5 @@
 <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"><b>Hi, I'm Bedirhan Büyüköz</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedirhanbuyukoz&label=Profile%20views&color=0e75b6&style=flat" alt="bedirhanbuyukoz"/></p>
 
 
@@ -40,12 +40,6 @@
 <a href="https://github.com/bedirhanbuyukoz/">
 <img src="https://github-readme-stats.vercel.app/api?username=bedirhanbuyukoz&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
 
-</a>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align='center'>
-</div>
-</a>
 
 
 
