@@ -21,6 +21,8 @@ My Web Site...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
 <p align="center">
 </p>	
+
+
 	
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70"><b> Let's Connect</b>
 
@@ -42,6 +44,8 @@ My Web Site...
 <a href="mailto:bedirhanbuyukoz@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  bedirhanbuyukoz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail />
 <div align="left">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> 
 
